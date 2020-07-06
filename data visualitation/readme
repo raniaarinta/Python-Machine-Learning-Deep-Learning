@@ -1,0 +1,12 @@
+predict student
+dataset: https://archive.ics.uci.edu/ml/datasets/Student+Performance
+selected attributes:
+G1 - first period grade (numeric: from 0 to 20)
+G2 - second period grade (numeric: from 0 to 20)
+G3 - final grade (numeric: from 0 to 20, output target)
+Dalc - workday alcohol consumption (numeric: from 1 - very low to 5 - very high)
+Walc - weekend alcohol consumption (numeric: from 1 - very low to 5 - very high)
+health - current health status (numeric: from 1 - very bad to 5 - very good)
+absences - number of school absences (numeric: from 0 to 93)
+famrel - quality of family relationships (numeric: from 1 - very bad to 5 - excellent)
+freetime - free time after school (numeric: from 1 - very low to 5 - very high)
